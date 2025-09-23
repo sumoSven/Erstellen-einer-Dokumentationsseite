@@ -1,0 +1,6 @@
+site_name: Doku Thienel
+
+
+nav:
+    - Home: index.md
+    - Über: about.md
