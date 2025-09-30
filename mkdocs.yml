@@ -1,6 +1,23 @@
 site_name: Doku Thienel
 
-
 nav:
-    - Home: index.md
-    - Über: about.md
+  - Home: index.md
+  - Über: about.md
+
+theme:
+  name: material
+  # Konfiguration der Farbpaletten für den Dark Mode Toggle
+  palette:
+    # Palette 1: Light Mode (Standardeinstellung für helle Systemthemen)
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7 # Das Icon für den Hell-Modus (Sonne)
+        name: Auf Dunkelmodus wechseln
+    
+    # Palette 2: Dark Mode (Standardeinstellung für dunkle Systemthemen)
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate # Der Name für das dunkle Farbschema
+      toggle:
+        icon: material/brightness-4 # Das Icon für den Dunkel-Modus (Mond)
+        name: Auf Hellmodus wechseln
