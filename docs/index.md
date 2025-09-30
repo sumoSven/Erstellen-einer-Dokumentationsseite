@@ -22,10 +22,12 @@ von Streams sowie für die Unterstützung bei der Buchhaltung gibt. Unsere Lösu
 daher eine Anwendung, die essenzielle Abläufe vereinigt.
 
 ### Entwicklungsetappen
-    -Ziele und Anforderungen festlegen
-    - Planung und Aufgabenverteilung
-    - Entwicklung
-    - Testen
-    - Vorstellung
-    - Werbung und Vertrieb
-    - Module weiterentwickeln / neue Module entwickeln 
+
+- Ziele und Anforderungen festlegen
+- Planung und Aufgabenverteilung
+- Entwicklung
+- Testen
+- Vorstellung
+- Werbung und Vertrieb
+- Module weiterentwickeln / neue Module entwickeln 
+
